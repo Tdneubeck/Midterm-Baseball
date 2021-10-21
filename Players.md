@@ -10,3 +10,7 @@
 - **Left Field**: Christian Yelich
 - **Center Field**: Mike Trout
 - **Right Field**: Mookie Betts
+
+[Baseball count Simulator](
+
+[return to Homepage](https://github.com/Tdneubeck/Midterm-Baseball/blob/main/README.md)
