@@ -10,3 +10,5 @@
 7. Leftfielder – outfield behind 2nd and 3rd base
 8. Centerfielder – outfield behind 2nd base
 9. Rightfielder – outfield behind 1st and 2nd base
+
+[return to Homepage](https://github.com/Tdneubeck/Midterm-Baseball/blob/main/README.md)
