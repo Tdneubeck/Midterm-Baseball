@@ -11,6 +11,6 @@
 - **Center Field**: Mike Trout
 - **Right Field**: Mookie Betts
 
-[Baseball count Simulator](
+[Baseball hit Simulator](https://github.com/Tdneubeck/Midterm-Baseball/blob/main/Baseballprogram.md)
 
 [return to Homepage](https://github.com/Tdneubeck/Midterm-Baseball/blob/main/README.md)
