@@ -18,4 +18,6 @@ A batter can't strike out on a foul ball. If he has two strikes, there's no limi
 
 The teams take turns going back and forth 7 or 9 times. Theses are called **innings**
 
+[Baseball Positions](https://github.com/Tdneubeck/Midterm-Baseball/blob/main/BaseballPositions.md)
+
 [return to Homepage](https://github.com/Tdneubeck/Midterm-Baseball/blob/main/README.md)
