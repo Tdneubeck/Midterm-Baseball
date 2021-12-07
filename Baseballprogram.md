@@ -1,4 +1,5 @@
 # Program to calculate what the runner hit based on how far they ran
+'''python
 
 {
 do_calc = True
@@ -26,6 +27,7 @@ while (do_calc == True):
         do_calc = False
         print( "Thank you for your calculations")
 }
+
 '''
 
 [return to Homepage](https://github.com/Tdneubeck/Midterm-Baseball/blob/main/README.md)
